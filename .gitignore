@@ -1,0 +1,23 @@
+# Build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.bak
+*.swp
+
+# Package caches
+.packages/
+packages/
+
+# Visual Studio files
+.vs/
+
+# Other common temp files
+Thumbs.db
+desktop.ini
+
+# OS generated files
+.DS_Store
